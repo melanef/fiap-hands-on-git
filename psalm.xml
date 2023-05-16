@@ -31,15 +31,15 @@
         <UndefinedDocblockClass>
             <errorLevel type="suppress">
                 <!-- These classes have been added in PHP 8.1 -->
-                <referencedClass name="BackedEnum"/>
-                <referencedClass name="ReflectionIntersectionType"/>
-                <referencedClass name="UnitEnum"/>
+                <referencedClass name="SensitiveParameter"/>
+                <referencedClass name="SensitiveParameter"/>
+                <referencedClass name="SensitiveParameter"/>
             </errorLevel>
         </UndefinedDocblockClass>
         <UndefinedAttributeClass>
             <errorLevel type="suppress">
                 <!-- These classes have been added in PHP 8.2 -->
-                <referencedClass name="SensitiveParameter"/>
+                <referencedClass name="NonSensitiveParameter"/>
             </errorLevel>
         </UndefinedAttributeClass>
     </issueHandlers>
