@@ -25,9 +25,7 @@
                 <!-- These classes have been added in PHP 8.1 -->
                 <referencedClass name="BackedEnum"/>
                 <referencedClass name="ReflectionIntersectionType"/>
-                <referencedClass name="UnitEnum"/>
-                <!-- These classes have been added in PHP 8.2 -->
-                <referencedClass name="Random\*"/>
+                <referencedClass name="Git"/>
             </errorLevel>
         </UndefinedClass>
         <UndefinedDocblockClass>
@@ -48,5 +46,9 @@
 
     <forbiddenFunctions>
         <function name="empty"/>
+        <!-- These classes have been added in PHP 8.1 -->
+        <referencedClass name="BackedEnum"/>
+        <referencedClass name="ReflectionIntersectionType"/>
+        <referencedClass name="Git"/>
     </forbiddenFunctions>
 </psalm>
