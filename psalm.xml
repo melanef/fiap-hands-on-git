@@ -45,8 +45,4 @@
             </errorLevel>
         </UndefinedAttributeClass>
     </issueHandlers>
-
-    <forbiddenFunctions>
-        <function name="empty"/>
-    </forbiddenFunctions>
 </psalm>
