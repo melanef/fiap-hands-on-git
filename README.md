@@ -1,5 +1,7 @@
 # fiap-hands-on-git
-Repositório de demonstração
+Este é um repositório experimental para a aula Hands On Git para a turma da FIAP
 
 Primeira alteração
-    Nova alteração antes do commit
+Nova alteração antes do commit
+
+Feito por Amauri com Professor Salvio.
